@@ -4,4 +4,4 @@
 
 | Day                           | Title                     |
 | ----------------------------- | ------------------------- |
-| [Day 1](./markdown/230512.md) | S.1 Getting Started (1~9) |
+| [Day 1](./markdown/230512.md) | S.1 Getting Started (1~6) |
