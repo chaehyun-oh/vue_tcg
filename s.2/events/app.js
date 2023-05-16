@@ -2,9 +2,13 @@ const app = Vue.createApp({
   data() {
     return {
       counter: 0,
+      name: ''
     };
   },
   methods: {
+    setName(e, lastName) {
+      this.name = e.target.value + ' ' + lastName;
+    },
     addCounter(num) {
       this.counter = this.counter + num;
     },
