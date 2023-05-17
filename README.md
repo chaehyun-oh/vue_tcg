@@ -9,3 +9,4 @@
 | [Day 3](./markdown/230514.md) | S.2 Basics & Core Concepts - DOM Interaction with Vue (13~14) |
 | [Day 4](./markdown/230515.md) | S.2 Basics & Core Concepts - DOM Interaction with Vue (15~20) |
 | [Day 5](./markdown/230516.md) | S.2 Basics & Core Concepts - DOM Interaction with Vue (21~24) |
+| [Day 6](./markdown/230517.md) | S.2 Basics & Core Concepts - DOM Interaction with Vue (25~28) |
