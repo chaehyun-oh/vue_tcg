@@ -12,3 +12,4 @@
 | [Day 6](./markdown/230517.md) | S.2 Basics & Core Concepts - DOM Interaction with Vue (25~28) |
 | [Day 7](./markdown/230518.md) | S.2 Basics & Core Concepts - DOM Interaction with Vue (29~31) |
 | [Day 8](./markdown/230519.md) | S.2 Basics & Core Concepts - DOM Interaction with Vue (32~38) |
+| [Day 9](./markdown/230520.md) | S.3 Rendering Conditional Content & Lists (39~43)             |
