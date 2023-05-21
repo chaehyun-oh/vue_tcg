@@ -21,8 +21,17 @@
     <button @click="addGoal">Add Goal</button>
     <p v-show="goals.length === 0">No goals have been added yet - please start adding some!</p>
     <ul v-show="goals.length > 0">
-      <li>Goal</li>
+      <li v-for="(goal, idx) in goals" :key="goal" @click="removeGoal(idx)">
+        <p>{{idx + 1}} - {{ goal }}</p>
+        <input type="text" @click.stop>
+      </li>
     </ul>
+    <!-- <ul>
+      <li v-for="num in 10">{{num}}</li>
+    </ul> -->
+    <!-- <ul>
+      <li v-for="(value, key, idx) in {name: 'Max', age: 29}">{{key}}: {{value}} - {{idx}}</li>
+    </ul> -->
   </section>
 </body>
 
