@@ -14,4 +14,5 @@
 | [Day 8](./markdown/230519.md)  | S.2 Basics & Core Concepts - DOM Interaction with Vue (32~38) |
 | [Day 9](./markdown/230520.md)  | S.3 Rendering Conditional Content & Lists (39~43)             |
 | [Day 10](./markdown/230521.md) | S.3 Rendering Conditional Content & Lists (44~49)             |
-| [Day 11](./markdown/230523.md) | S.4 Course Project: The Monster Slayer Game (50~58)           |
+| [Day 11](./markdown/230522.md) | S.4 Course Project: The Monster Slayer Game (50~58)           |
+| [Day 12](./markdown/230523.md) | S.5 Vue: Behind the Scenes (59~68)                            |
