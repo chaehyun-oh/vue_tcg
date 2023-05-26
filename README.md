@@ -18,3 +18,4 @@
 | [Day 12](./markdown/230523.md) | S.5 Vue: Behind the Scenes (59~68)                                           |
 | [Day 13](./markdown/230524.md) | S.6 Introducing Components (69~74)                                           |
 | [Day 14](./markdown/230525.md) | S.7 Moving to a Better Development Setup & Workflow with the Vue CLI (75~77) |
+| [Day 14](./markdown/230525.md) | S.7 Moving to a Better Development Setup & Workflow with the Vue CLI (78~83) |
