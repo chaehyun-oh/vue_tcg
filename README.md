@@ -20,3 +20,4 @@
 | [Day 14](./markdown/230525.md) | S.7 Moving to a Better Development Setup & Workflow with the Vue CLI (75~77) |
 | [Day 14](./markdown/230525.md) | S.7 Moving to a Better Development Setup & Workflow with the Vue CLI (78~83) |
 | [Day 15]()                     | S.7 Moving to a Better Development Setup & Workflow with the Vue CLI (84~90) |
+| [Day 16]()                     | S.8 Component Communication (91~96)                                          |

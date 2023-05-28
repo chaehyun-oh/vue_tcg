@@ -4,8 +4,14 @@
 			<h1>My Friends</h1>
 		</header>
 		<ul>
-			<friend-contact></friend-contact>
-			<friend-contact></friend-contact>
+			<friend-contact
+				v-for="friend in friends"
+				:key="friend.id"
+				:name="friend.name"
+				:phone="friend.phone"
+				:email="friend.email"
+				:is-favorite="true"
+			></friend-contact>
 		</ul>
 	</section>
 </template>
