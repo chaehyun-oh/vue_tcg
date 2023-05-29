@@ -3,14 +3,18 @@
 		<header>
 			<h1>My Friends</h1>
 		</header>
+		<new-friend @add-contact="addContact"></new-friend>
 		<ul>
 			<friend-contact
 				v-for="friend in friends"
 				:key="friend.id"
+				:id="friend.id"
 				:name="friend.name"
 				:phone="friend.phone"
 				:email="friend.email"
-				:is-favorite="true"
+				:is-favorite="friend.isFavorite"
+				@toggle-favorite="toggleFavoriteStatue"
+				@delete="deleteContact"
 			></friend-contact>
 		</ul>
 	</section>
@@ -26,15 +30,40 @@
 						name: "Manuel Lorenz",
 						phone: "0123 45678 90",
 						email: "manuel@localhost.com",
+						isFavorite: true,
 					},
 					{
 						id: "julie",
 						name: "Julie Jones",
 						phone: "123 45678 900",
 						email: "julie@localhost.com",
+						isFavorite: false,
 					},
 				],
 			};
+		},
+		methods: {
+			toggleFavoriteStatue(friendId) {
+				const idfFriend = this.friends.find(
+					(friend) => friend.id === friendId
+				);
+				idfFriend.isFavorite = !idfFriend.isFavorite;
+			},
+			addContact(name, phone, email) {
+				const newFriendContact = {
+					id: new Date().toISOString(),
+					name,
+					phone,
+					email,
+					isFavorite: false,
+				};
+				this.friends.push(newFriendContact);
+			},
+			deleteContact(friendId) {
+				this.friends = this.friends.filter(
+					(friend) => friend.id !== friendId
+				);
+			},
 		},
 	};
 </script>
@@ -69,7 +98,8 @@
 		list-style: none;
 	}
 
-	#app li {
+	#app li,
+	#app form {
 		box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
 		margin: 1rem auto;
 		border-radius: 10px;
