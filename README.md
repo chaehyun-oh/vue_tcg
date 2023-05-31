@@ -23,3 +23,4 @@
 | [Day 16](./markdown/230528.md) | S.8 Component Communication (91~96)                                          |
 | [Day 17](./markdown/230529.md) | S.8 Component Communication (97~102)                                         |
 | [Day 18](./markdown/230530.md) | S.8 Component Communication (103~107)                                        |
+| [Day 19](./markdown/230531.md) | S.9 Diving Deeper Into Components (108~111)                                  |
