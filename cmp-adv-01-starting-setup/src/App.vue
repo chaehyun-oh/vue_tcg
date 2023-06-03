@@ -32,7 +32,7 @@
 </template>
 
 <script>
-	import TheHeader from "./components/TheHeader.vue";
+	import TheHeader from "./components/layout/TheHeader.vue";
 	// import CourseGoals from "./components/CourseGoals.vue";
 	import ActiveGoals from "./components/ActiveGoals.vue";
 	import ManageGoals from "./components/ManageGoals.vue";
