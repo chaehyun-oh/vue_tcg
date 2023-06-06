@@ -28,4 +28,5 @@
 | [Day 21](./markdown/230602.md) | S.9 Diving Deeper Into Components (117~119)                                  |
 | [Day 22](./markdown/230603.md) | S.9 Diving Deeper Into Components (120~125)                                  |
 | [Day 23]()                     | S.10 Course Project: The Learning Resources App(126~129)                     |
-| [Day 24](./markdown/230605.md) | S.10 Course Project: The Learning Resources App(130~133)                     |
+| [Day 24]()                     | S.10 Course Project: The Learning Resources App(130~133)                     |
+| [Day 25]()                     | S.10 Course Project: The Learning Resources App(134~136)                     |
