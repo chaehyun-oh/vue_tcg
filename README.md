@@ -34,4 +34,5 @@
 | [Day 27]()                     | S.11 Forms (140~142)                                                         |
 | [Day 28]()                     | S.11 Forms (143~144)                                                         |
 | [Day 29]()                     | S.11 Forms (145~149)                                                         |
-| [Day 30]()                     | S.12 Sending Http Requests (150~1456)                                        |
+| [Day 30]()                     | S.12 Sending Http Requests (150~156)                                         |
+| [Day 31]()                     | S.12 Sending Http Requests (157~160)                                         |

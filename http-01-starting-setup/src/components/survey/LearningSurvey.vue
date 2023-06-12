@@ -78,7 +78,7 @@ export default {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
-          name: this.userName,
+          name: this.enteredName,
           rating: this.chosenRating,
         }),
       });
