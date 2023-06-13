@@ -56,6 +56,7 @@ export default {
       enteredName: '',
       chosenRating: null,
       invalidInput: false,
+      error: null,
     };
   },
   emits: ['survey-submit'],
@@ -80,7 +81,18 @@ export default {
         body: JSON.stringify({
           name: this.enteredName,
           rating: this.chosenRating,
-        }),
+        })
+          .then((res) => {
+            if (res.ok) {
+              //
+            } else {
+              throw new Error('Could not save data');
+            }
+          })
+          .catch((err) => {
+            console.log(err);
+            this.error = err.message;
+          }),
       });
 
       this.enteredName = '';
