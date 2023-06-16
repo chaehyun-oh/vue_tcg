@@ -38,3 +38,5 @@
 | [Day 31]()                     | S.12 Sending Http Requests (157~160)                                         |
 | [Day 32]()                     | S.12 Sending Http Requests (161~164)                                         |
 | [Day 33]()                     | S.13 Routing: Building "Multi-Page" Single Page Applications (165~171)       |
+| [Day 34]()                     | S.13 Routing: Building "Multi-Page" Single Page Applications (172~176)       |
+| [Day 35]()                     | S.13 Routing: Building "Multi-Page" Single Page Applications (177~182)       |
