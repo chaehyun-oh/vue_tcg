@@ -43,4 +43,5 @@
 | [Day 36]()                     | S.13 Routing: Building "Multi-Page" Single Page Applications (183~185)       |
 | [Day 37]()                     | S.13 Routing: Building "Multi-Page" Single Page Applications (186~190)       |
 | [Day 38]()                     | S.14 Animations & Transitions (191~193)                                      |
-| [Day 38]()                     | S.14 Animations & Transitions (194~198)                                      |
+| [Day 39]()                     | S.14 Animations & Transitions (194~198)                                      |
+| [Day 40]()                     | S.14 Animations & Transitions (199~201)                                      |
