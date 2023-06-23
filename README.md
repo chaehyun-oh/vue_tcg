@@ -45,3 +45,4 @@
 | [Day 38]()                     | S.14 Animations & Transitions (191~193)                                      |
 | [Day 39]()                     | S.14 Animations & Transitions (194~198)                                      |
 | [Day 40]()                     | S.14 Animations & Transitions (199~201)                                      |
+| [Day 41]()                     | S.14 Animations & Transitions (202~204)                                      |
