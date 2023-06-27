@@ -49,3 +49,4 @@
 | [Day 42]()                     | S.14 Animations & Transitions (205~206)                                      |
 | [Day 43]()                     | S.14 Animations & Transitions (207~209)                                      |
 | [Day 44](./markdown/230626.md) | S.15 Vuex(210~213)                                                           |
+| [Day 45]()                     | S.15 Vuex(214~215)                                                           |
