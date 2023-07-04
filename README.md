@@ -52,3 +52,8 @@
 | [Day 45]()                     | S.15 Vuex(214~215)                                                           |
 | [Day 45]()                     | S.15 Vuex(216~217)                                                           |
 | [Day 46]()                     | S.15 Vuex(218~219)                                                           |
+| [Day 47]()                     | S.15 Vuex(220~221)                                                           |
+| [Day 48]()                     | S.15 Vuex(222~224)                                                           |
+| [Day 49]()                     | S.15 Vuex(225~226)                                                           |
+| [Day 50]()                     | S.15 Vuex(227~230)                                                           |
+| [Day 51]()                     | S.16 Main Project: “Find a Coach” Web App(231~233)                           |
