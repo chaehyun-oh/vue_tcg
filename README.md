@@ -57,3 +57,5 @@
 | [Day 49]()                     | S.15 Vuex(225~226)                                                           |
 | [Day 50]()                     | S.15 Vuex(227~230)                                                           |
 | [Day 51]()                     | S.16 Main Project: “Find a Coach” Web App(231~233)                           |
+| [Day 51]()                     | S.16 Main Project: “Find a Coach” Web App(234~235)                           |
+| [Day 52]()                     | S.16 Main Project: “Find a Coach” Web App(236~237)                           |
