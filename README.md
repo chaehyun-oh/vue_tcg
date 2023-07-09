@@ -62,3 +62,4 @@
 | [Day 53]()                     | S.16 Main Project: “Find a Coach” Web App(238~239)                           |
 | [Day 54]()                     | S.16 Main Project: “Find a Coach” Web App(240)                               |
 | [Day 55]()                     | S.16 Main Project: “Find a Coach” Web App(241)                               |
+| [Day 56]()                     | S.16 Main Project: “Find a Coach” Web App(242)                               |
