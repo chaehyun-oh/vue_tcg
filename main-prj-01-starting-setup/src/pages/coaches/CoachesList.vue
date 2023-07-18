@@ -64,9 +64,15 @@ export default {
       return this.$store.getters['coaches/hasCoaches'];
     },
   },
+  created() {
+    this.loadCoaches();
+  },
   methods: {
     setFilter(updatedFilters) {
       this.activeFilters = updatedFilters;
+    },
+    loadCoaches() {
+      this.$store.dispatch('coaches/loadCoaches');
     },
   },
 };
