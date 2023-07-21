@@ -74,3 +74,4 @@
 | [Day 65]()                     | S.16 Main Project: “Find a Coach” Web App(251~252)                           |
 | [Day 66]()                     | S.16 Main Project: “Find a Coach” Web App(253~254)                           |
 | [Day 67]()                     | S.16 Main Project: “Find a Coach” Web App(255)                               |
+| [Day 68]()                     | S.16 Main Project: “Find a Coach” Web App(256~259)                           |

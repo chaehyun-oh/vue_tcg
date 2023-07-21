@@ -28,7 +28,11 @@ export default {
             id: userId
         });
     },
-    async loadCoaches(context) {
+    async loadCoaches(context, payload) {
+        if (!payload.forceRefresh && !context.getters.shouldUpdate) {
+            return;
+        }
+
         const res = await fetch(`https://vue-http-demo-de534-default-rtdb.firebaseio.com/coaches.json`);
 
         const resData = await res.json();
@@ -51,5 +55,6 @@ export default {
             coaches.push(coach);
         }
         context.commit('setCoaches', coaches);
+        context.commit('setFetchTimestamp');
     }
 };
