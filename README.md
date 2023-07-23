@@ -76,3 +76,4 @@
 | [Day 67]()                     | S.16 Main Project: “Find a Coach” Web App(255)                               |
 | [Day 68]()                     | S.16 Main Project: “Find a Coach” Web App(256~259)                           |
 | [Day 68]()                     | S.17 Vue & Authentication (260~262)                                          |
+| [Day 69]()                     | S.17 Vue & Authentication (263)                                              |
