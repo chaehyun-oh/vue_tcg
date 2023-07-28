@@ -81,3 +81,4 @@
 | [Day 71]()                     | S.17 Vue & Authentication (266)                                              |
 | [Day 72]()                     | S.17 Vue & Authentication (267~269)                                          |
 | [Day 73]()                     | S.17 Vue & Authentication (270)                                              |
+| [Day 74]()                     | S.17 Vue & Authentication (271)                                              |
