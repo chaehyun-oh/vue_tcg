@@ -84,4 +84,5 @@
 | [Day 74]()                     | S.17 Vue & Authentication (271)                                              |
 | [Day 75]()                     | S.17 Vue & Authentication (272)                                              |
 | [Day 76]()                     | S.17 Vue & Authentication (273~275)                                          |
-| [Day 77]()                     | S.17 Optimizing & Deploying Vue Apps (276~277)                               |
+| [Day 77]()                     | S.18 Optimizing & Deploying Vue Apps (276~277)                               |
+| [Day 77]()                     | S.18 Optimizing & Deploying Vue Apps (278~279)                               |
