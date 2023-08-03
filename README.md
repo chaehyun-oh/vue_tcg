@@ -87,3 +87,4 @@
 | [Day 77]()                     | S.18 Optimizing & Deploying Vue Apps (276~277)                               |
 | [Day 78]()                     | S.18 Optimizing & Deploying Vue Apps (278~279)                               |
 | [Day 79]()                     | S.18 Optimizing & Deploying Vue Apps (280~282)                               |
+| [Day 80](./markdown/230803.md) | S.19 The Composition API - Replacing the Options API (283~284)               |
