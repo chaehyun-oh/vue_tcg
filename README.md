@@ -91,3 +91,4 @@
 | [Day 81]()                     | S.19 The Composition API - Replacing the Options API (285~286)               |
 | [Day 82]()                     | S.19 The Composition API - Replacing the Options API (287)                   |
 | [Day 83]()                     | S.19 The Composition API - Replacing the Options API (288)                   |
+| [Day 84]()                     | S.19 The Composition API - Replacing the Options API (289)                   |
