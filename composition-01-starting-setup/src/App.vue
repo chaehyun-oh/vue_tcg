@@ -3,25 +3,45 @@
     <h2>{{ user.name }}</h2>
     <h3>{{ user.age }}</h3>
     <button @click="setAge">Change Age</button>
+    <div>
+      <input type="text" placeholder="First Name" @input="setFirstName" />
+      <input type="text" placeholder="Last Name" @input="setLastName" />
+      <p>{{ uName }}</p>
+    </div>
   </section>
 </template>
 
 <script>
-import { reactive } from 'vue';
+import { reactive, ref, computed } from 'vue';
 
 export default {
   setup() {
     // const uName = ref('Maximilian');
     // const uAge = ref(31);
 
+    const firstName = ref('');
+    const lastName = ref('');
+
     const user = reactive({
       name: 'Maximilian',
       age: 31,
     });
 
+    const uName = computed(function () {
+      return firstName.value + ' ' + lastName.value;
+    });
+
     function setNewData() {
       user.age = 32;
       // uAge.value = 33;
+    }
+
+    function setFirstName(e) {
+      firstName.value = e.target.value;
+    }
+
+    function setLastName(e) {
+      lastName.value = e.target.value;
     }
 
     // console.log(isRef(uAge));
@@ -47,6 +67,9 @@ export default {
       setAge: setNewData,
       // userName: userRefs.name,
       // userAge: userRefs.age,
+      setFirstName,
+      setLastName,
+      uName,
     };
   },
   // data() {
