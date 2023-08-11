@@ -7,11 +7,16 @@
 import { computed } from 'vue';
 
 export default {
-  props: ['userName', 'age'],
-  setup() {
+  props: ['firstName', 'lastName', 'age'],
+  setup(props, context) {
     const uName = computed(function () {
-      return;
+      return props.firstName + ' ' + props.lastName;
     });
+
+    console.log(context);
+
+    // context.commit('save-data', 1)
+
     return {
       userName: uName,
     };
