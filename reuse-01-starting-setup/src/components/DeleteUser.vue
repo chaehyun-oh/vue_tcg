@@ -1,5 +1,5 @@
 <template>
-  <user-alert v-if="alertIsVisible" title="Delete the User?" @close="hideAlert">
+  <user-alert v-if="alertIsVisible" :title="alertTitle" @close="hideAlert">
     <p>Do you want to continue with deleting a user?</p>
   </user-alert>
   <section>
@@ -11,22 +11,18 @@
 <script>
 import UserAlert from './UserAlert.vue';
 
+import alertMixin from '../mixins/alert';
+
 export default {
   components: {
     UserAlert,
   },
   data() {
     return {
-      alertIsVisible: false,
+      alertTitle: 'Delete User?',
+      alertIsVisible: true,
     };
   },
-  methods: {
-    showAlert() {
-      this.alertIsVisible = true;
-    },
-    hideAlert() {
-      this.alertIsVisible = false;
-    },
-  },
+  mixins: [alertMixin],
 };
 </script>
