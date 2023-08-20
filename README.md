@@ -104,3 +104,4 @@
 | [Day 94]()                     | S.19 The Composition API - Replacing the Options API (304 ~ 307)             |
 | [Day 95]()                     | S.20 Reusing Functionality: Mixins & Custom Composition Function (308 ~ 309) |
 | [Day 96]()                     | S.20 Reusing Functionality: Mixins & Custom Composition Function (310 ~ 311) |
+| [Day 96]()                     | S.20 Reusing Functionality: Mixins & Custom Composition Function (312 ~ 313) |
