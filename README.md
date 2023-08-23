@@ -107,3 +107,4 @@
 | [Day 97]()                     | S.20 Reusing Functionality: Mixins & Custom Composition Function (312 ~ 313) |
 | [Day 98]()                     | S.20 Reusing Functionality: Mixins & Custom Composition Function (314 ~ 316) |
 | [Day 99]()                     | S.20 Reusing Functionality: Mixins & Custom Composition Function (317)       |
+| [Day 100]()                    | S.20 Reusing Functionality: Mixins & Custom Composition Function (318)       |
