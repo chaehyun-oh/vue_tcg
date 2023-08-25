@@ -109,3 +109,4 @@
 | [Day 99]()                     | S.20 Reusing Functionality: Mixins & Custom Composition Function (317)       |
 | [Day 100]()                    | S.20 Reusing Functionality: Mixins & Custom Composition Function (318)       |
 | [Day 101]()                    | S.20 Reusing Functionality: Mixins & Custom Composition Function (319~321)   |
+| [Day 102]()                    | S.22 Vue2 to Vue3 Migration (324~325)                                        |
